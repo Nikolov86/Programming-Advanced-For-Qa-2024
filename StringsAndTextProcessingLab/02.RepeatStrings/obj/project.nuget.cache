@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fnhJAiKays=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola\\source\\repos\\StringsAndTextProcessingLab\\02.RepeatStrings\\02.RepeatStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.10\\microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

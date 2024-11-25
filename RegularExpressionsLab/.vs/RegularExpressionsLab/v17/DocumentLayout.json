@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5C81B-7826-4FA6-B586-9DEC269C0347}|03.MatchDates\\03.MatchDates.csproj|c:\\users\\nikola\\source\\repos\\regularexpressionslab\\03.matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5C81B-7826-4FA6-B586-9DEC269C0347}|03.MatchDates\\03.MatchDates.csproj|solutionrelative:03.matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0809EB8A-DCD4-40AF-8880-E47DD27047D3}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|c:\\users\\nikola\\source\\repos\\regularexpressionslab\\02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0809EB8A-DCD4-40AF-8880-E47DD27047D3}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|solutionrelative:02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2029B940-0AE7-4E7A-B209-13474D3D7661}|01.MatchFullName\\01.MatchFullName.csproj|c:\\users\\nikola\\source\\repos\\regularexpressionslab\\01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2029B940-0AE7-4E7A-B209-13474D3D7661}|01.MatchFullName\\01.MatchFullName.csproj|solutionrelative:01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\03.MatchDates\\Program.cs",
+              "RelativeDocumentMoniker": "03.MatchDates\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\03.MatchDates\\Program.cs",
+              "RelativeToolTip": "03.MatchDates\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:56:59.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.MatchPhoneNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeToolTip": "02.MatchPhoneNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:44:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\01.MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "01.MatchFullName\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\RegularExpressionsLab\\01.MatchFullName\\Program.cs",
+              "RelativeToolTip": "01.MatchFullName\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:29:48.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

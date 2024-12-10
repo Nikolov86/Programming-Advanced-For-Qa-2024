@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nikola\\downloads\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nikola\\downloads\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp.unittests\\matchurlstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchurlstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nikola\\downloads\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp.unittests\\matchdatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchdatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nikola\\downloads\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp.unittests\\matchphonenumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchphonenumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\EmailValidatorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\EmailValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\EmailValidatorTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\EmailValidatorTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:39:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchUrlsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchUrlsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchUrlsTests.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchUrlsTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchUrlsTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:06.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchDatesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchDatesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchDatesTests.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchDatesTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchDatesTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:03:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchPhoneNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Downloads\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:48:29.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
